@@ -1,0 +1,45 @@
+#oldalkeret {
+    width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: #000;
+    line-height: 1.4;
+}
+
+#adatlap {
+    background-color: lightgray;
+    border: solid 1px;
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#adatlap-fejlec {
+    font-weight: bold;
+    background-color: gray;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 8px;
+    width: 95%;
+}
+
+.kiemelt {
+    font-weight: bold;
+}
+
+.kiemelt-dolt {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.iskola-lista {
+    margin-left: 20px;
+    padding-left: 15px;
+}
+
+.szoveg-torzs {
+    text-align: justify;
+    margin-bottom: 10px;
+    padding: 10px;
+}
